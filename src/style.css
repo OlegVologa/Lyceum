@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "DS Greece";
+  src: url("./fonts/ds_greece.eot?") format("eot"), url("./fonts/ds_greece.woff") format("woff"), url("./fonts/ds_greece.ttf") format("truetype"), url("./fonts/ds_greece.svg#DSGreece") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  box-sizing: border-box;
+  position: relative;
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #e2e1e1;
+  color: #212121;
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+.title {
+  font-family: "DS Greece";
+}
