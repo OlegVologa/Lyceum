@@ -5,3 +5,4 @@
 - Bootstrap
 - Sass
 - Pinia
+- some text
